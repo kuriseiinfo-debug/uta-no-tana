@@ -1,0 +1,16 @@
+{
+  "name": "うたのたな",
+  "short_name": "うたのたな",
+  "description": "おうちで選んだうたの動画だけが並ぶ、子ども用の棚",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E4E8EF",
+  "theme_color": "#2E6FD0",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
